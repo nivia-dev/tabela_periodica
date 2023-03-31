@@ -33,17 +33,17 @@ td {
 }
 
 sup {
-    font-size: 0.7em;
+    font-size: 0.5em;
     position: absolute;
     top: 0px;
     left: 3px;
 }
 
 sub {
-    font-size: 0.7em;
+    font-size: 0.5em;
     position: absolute;
     bottom: 0px;
-    right: 5px;
+    right: 3px;
 }
 
 .vazio {
@@ -102,7 +102,11 @@ sub {
     width: 40vw;
     height: 5vh;
     font-size: 0.6em;
-    margin-top: 0px;
-    margin-bottom: 0px;
+  
 }
+#tab td {
+    padding: 3px;
+}
+
+
 
