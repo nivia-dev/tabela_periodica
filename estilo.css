@@ -39,6 +39,13 @@ sup {
     left: 3px;
 }
 
+sub {
+    font-size: 0.7em;
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+}
+
 .vazio {
     border: none;
 }
